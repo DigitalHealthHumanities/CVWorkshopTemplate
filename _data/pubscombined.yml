@@ -1,13 +1,13 @@
 main: # You can enter in your items in a long list in this form. A few notes: they will not automatically be listed by time, so you will need to order it manually, with most recent at the top and least recent at the bottom.
 
   - type: essay # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
-    title: "A Journal Publication"
-    authors: John Doe # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
-    pub_abbr: Pub # for type:essay
-    publication: Publication # for type:essay
-    date: 2024
-    doi: https://digitalhealthhumanities.github.io/CVWorkshop/ # this will provide the link to the work. You can also host .pdfs of your work on this site in the assets folder. Link it there: "./assets/pdf/[filename].pdf"
-    image: ./assets/img/teaser_example_2.png #for type:essay. You will need to link to the file in your assets folder ./assets/img/[FILENAME].[FILETYPE]
+    title: "Extending the Commercial Determinants of Health: Lessons from the Opioid Industry Archive"
+    authors: <strong> Dan Kabella </strong>, Dorie Apollonio, Kelly Knight # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
+    pub_abbr: #Pub # for type:essay
+    publication: #Publication # for type:essay
+    date: In Press
+    doi: #https://digitalhealthhumanities.github.io/CVWorkshop/ # this will provide the link to the work. You can also host .pdfs of your work on this site in the assets folder. Link it there: "./assets/pdf/[filename].pdf"
+    image: #./assets/img/teaser_example_2.png #for type:essay. You will need to link to the file in your assets folder ./assets/img/[FILENAME].[FILETYPE]
     notes:
     
   - type: conference
